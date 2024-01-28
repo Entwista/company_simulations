@@ -78,3 +78,8 @@ assert profit_made[999] == -120
 # of the accounting figures to realise what is going on, they instead would have seen 500 days of increased profits
 # before seeing a gradual decline, if a highly attentive business owner went looking for changes around the time of the 
 # decline, they would miss the culprit, as nothing has changed in the way the business operates in the last 500 days.
+
+# A good business owner is clearly able to observe intangible things like employee satisfaction, reptutation and product 
+# quality, and only allow actions that don't diminish these variables. However, even omniscient employees wouldn't be
+# incentivised to protect them, as they can't all have sufficient ownership to cause them to act fully in the best interests
+# of the organisation.

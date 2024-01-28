@@ -72,3 +72,9 @@ assert profit_made[925] < 0
 
 # After that point the losses get worse until the simulation ends
 assert profit_made[999] == -120
+
+# If we own the above business, how should we proceed? Clearly over the long term our strategy of the financial
+# incentive didn't work, and as we can't see reputation directly it would have been impossible for an observer
+# of the accounting figures to realise what is going on, they instead would have seen 500 days of increased profits
+# before seeing a gradual decline, if a highly attentive business owner went looking for changes around the time of the 
+# decline, they would miss the culprit, as nothing has changed in the way the business operates in the last 500 days.
